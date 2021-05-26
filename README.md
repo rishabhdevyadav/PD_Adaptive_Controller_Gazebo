@@ -4,6 +4,13 @@ A repo to compare the PD and adaptive controller using turtlebot3 in gazebo.
 ### Turtlebot3 has 3 models [burger, waffle, waffle_pi].\
 ### waffle_pi urdf file has been edited in which all sensors has been removed.
 
+![Alt text](https://github.com/rishabhdevyadav/PD_Adaptive_Controller_Gazebo/blob/main/gif/Mocap.gif)
+
+![Alt text](https://github.com/rishabhdevyadav/PD_Adaptive_Controller_Gazebo/blob/main/gif/PD.gif)
+
+![Alt text](https://github.com/rishabhdevyadav/PD_Adaptive_Controller_Gazebo/blob/main/gif/adaptive.gif)
+
+
 ## How To Run
 
 ### Terminal 1:-
